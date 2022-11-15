@@ -34,7 +34,7 @@ const lucas = {
 function focusCurrent(42school) {
   const projects = 42school;
 
-  if (projects.mineshell != "finished") {
+  if (projects.current != "finished") {
     learnMore();
     drinkMoreCoffee();
   }

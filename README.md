@@ -27,8 +27,8 @@ const lucas = {
   education: "Software Engineering",
   hobbies: ["Programming", "Music", "Games", "Movies", "Series"],
   languages: ["Portuguese", "English"],
-  code: [Javascript, Typescript, Html, Css, Clang],
-  tools: [React, Node, Styled-Components, Tailwind, Jest, Docker],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Clang"],
+  tools: ["React", "Node", "Styled-Components", "Tailwind", "Jest", "Docker"],
 }
 
 function focusCurrent(42school) {

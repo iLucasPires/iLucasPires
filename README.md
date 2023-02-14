@@ -3,7 +3,7 @@
   <div>
     <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47u98u4yut0kktmc096cwr719cxn2svw4m85pdw8pw&rid=giphy.gif&ct=g"/>
   </div>
-  <h1>Hello word 👋, I'm Lucas Pires</h1>
+  <h1>Hello world 👋, I'm Lucas Pires</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ilucaspires/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

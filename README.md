@@ -1,52 +1,32 @@
+# Hello, I'm Lucas! 👋
 
-<div id="header" align="center">
-  <div>
-    <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47u98u4yut0kktmc096cwr719cxn2svw4m85pdw8pw&rid=giphy.gif&ct=g"/>
-  </div>
-  <h1>Hello world 👋, I'm Lucas Pires</h1>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/ilucaspires/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/LucasPN01">
-     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://www.instagram.com/ilucaspires/">
-      <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
-</div>
-
+I'm a student of software engineering at the 42 São Paulo, I'm passionate about technology and I'm always looking for new challenges.
 
 ## About me
 
-```javascript
-const lucas = {
-  country: "Brazil",
-  city: "Campos dos Goytacazes",
-  education: "Software Engineering",
-  hobbies: ["Programming", "Music", "Games", "Movies", "Series"],
-  languages: ["Portuguese", "English"],
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Clang"],
-  tools: ["React", "Node", "Styled-Components", "Tailwind", "Jest", "Docker"],
-}
+- 📚 I'm currently studying at 42 São Paulo
+- 🌱 I'm currently learning about web development and mobile development
+- ⚡ Portfolio: [https://ilucaspires.github.io/](https://ilucaspires.github.io/)
+- 📫 How to reach me:
+  [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Pires-2a313d?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pires-9b5b1b1b3/)](https://www.linkedin.com/in/lucas-pires-9b5b1b1b3/)
+  [![Twitter Badge](https://img.shields.io/badge/-Lucas%20Pires-2a313d?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lucaspires_)](https://twitter.com/lucaspires_)
+  [![Discord Badge](https://img.shields.io/badge/-LucasPires%231962-2a313d?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/71000000000000000/)](https://discordapp.com/users/71000000000000000/)
 
-function focusCurrent(42school) {
-  const projects = 42school;
+- ### My Skills
 
-  if (projects.current != "finished") {
-    learnMore();
-    drinkMoreCoffee();
-  }
-  return "ready to next project";
-}
-```
+  - Languages and Technologies
 
-## Github Stats
+      [![My Skills](https://skillicons.dev/icons?i=js,ts,html,md,css,py,c,php)](https://skillicons.dev)
 
-<div align="center">
-  <a href="https://github.com/iLucaspires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iLucaspires&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLucaspires&layout=compact&langs_count=7&theme=prussian"/>
-  </div>
+  - Frameworks and Libraries
+
+      [![My Skills](https://skillicons.dev/icons?i=react,express,flask,next,tailwind,bootstrap,vite,sass)](https://skillicons.dev)
+
+  - Databases and ORM
+
+      [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongo,prisma,sequelize,)](https://skillicons.dev)
+
+  - Tools and Others
+
+      [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,)](https://skillicons.dev)
 

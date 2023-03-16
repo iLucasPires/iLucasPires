@@ -19,7 +19,7 @@ I'm a student of software engineering at the 42 São Paulo, I'm passionate about
 
   - Frameworks and Libraries
 
-      [![My Skills](https://skillicons.dev/icons?i=react,express,flask,next,tailwind,bootstrap,vite,sass)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=react,express,django,next,tailwind,bootstrap,vite,sass)](https://skillicons.dev)
 
   - Databases and ORM
 

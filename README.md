@@ -7,7 +7,6 @@
 + ## My skills:
   * 👨‍💻 Languages: C, C++, Python, TypeScript, HTML, CSS, SQL;
   * 🧰 Frameworks: Next.js, Bootstrap, FastAPI, express.js;
-  * 🛢️ Databases: PostgreSQL, SQLite, MongoDB;
   * 🛠️ Tools: Git, Linux, Windows, Docker;
 
 + ## Contact me:

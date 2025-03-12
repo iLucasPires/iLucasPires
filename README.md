@@ -1,12 +1,11 @@
 # Welcome to my GitHub profile ✨🚀
 + ## About me:
   * 🇧🇷 I'm from Campos dos Goytacazes/RJ - Brazil;
-  * 📚 I'm currently studying at 42 São Paulo;
-  * 🌱 I'm currently learning about FastAPI and SQL;
+  * 🌱 I'm currently learning about FastAPI and Django;
 
 + ## My skills:
   * 👨‍💻 Languages: C, C++, Python, TypeScript, HTML, CSS, SQL;
-  * 🧰 Frameworks: Next.js, Bootstrap, FastAPI, express.js;
+  * 🧰 Frameworks: Next.js, Nuxt.js, Django, FastAPI;
   * 🛠️ Tools: Git, Linux, Windows, Docker;
 
 + ## Contact me:
